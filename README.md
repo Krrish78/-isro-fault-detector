@@ -1,5 +1,3 @@
-# -isro-fault-detector
-
 # ISRO Satellite Fault and Anomaly Detection System
 
 A real-time AI-powered system for detecting anomalies and classifying faults in satellite telemetry data using both unsupervised and supervised machine learning models. Designed to meet standards suitable for academic, research, and institutional deployment.
